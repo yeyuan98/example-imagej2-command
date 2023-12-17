@@ -6,7 +6,7 @@
  *     http://creativecommons.org/publicdomain/zero/1.0/
  */
 
-package com.mycompany.imagej;
+package yy.ij2.plugins;
 
 import net.imagej.Dataset;
 import net.imagej.ImageJ;
